@@ -1,4 +1,3 @@
 CodeResources
 =============
-
-My codes for play
+Codes for projects 
